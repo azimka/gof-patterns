@@ -1,30 +1,3 @@
 # gof-patterns
 
-### Java ###
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-
-hs_err_pid*
-
-# idea
-
-.idea/*
+Native realization, examples of most popular and used Gof-patterns for Java
